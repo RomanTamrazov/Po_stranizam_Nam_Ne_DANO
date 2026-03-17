@@ -1,4 +1,4 @@
-![Project Logo](Screenshot 2026-03-17 at 21.34.41.png)
+![Project Logo](po_stranizam.png)
 # Решение задачи хакатона академии ии "По страницам"
 Private lb score: 0.834 (топ 3 среди не участников НТО ИИ)
 
