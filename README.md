@@ -1,4 +1,5 @@
-# participants — генерация submission.csv для задачи рекомендаций
+# Решение задачи хакатона академии ии "По страницам"
+Private lb score: 0.834 (топ 3 среди не участников НТО ИИ)
 
 ## Что делает проект
 
@@ -43,7 +44,7 @@ source .venv/bin/activate
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 
-# (опционально) код был запущен и работает с помощью GPU
+# (опционально) код был запущен и работает с помощью GPU ( При смене на CPU может повлиять на метрику)
 
 
 python po_stranizam_Nam_Ne_DANO.py
